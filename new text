@@ -4,3 +4,7 @@ flowchart LR
     C{NodeC}
     D((NodeD))
     E>NodeE]
+    A --> B
+    B <--> C
+    C -.-> D
+    C <-.-> A
