@@ -17,3 +17,5 @@ flowchart TD
     A[🌙 睡眠] --> B[🎋 竹を食べる]
     B --> C[🧸 遊ぶ]
     C --> A
+
+git status
