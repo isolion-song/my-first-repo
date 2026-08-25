@@ -18,4 +18,3 @@ flowchart TD
     B --> C[🧸 遊ぶ]
     C --> A
 
-git status
